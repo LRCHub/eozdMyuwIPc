@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Mad Hatter",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-19T10:50:04.732082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/01_Mad_Hatter_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/02_Mad_Hatter_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/03_Mad_Hatter_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/04_Mad_Hatter_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Avenged Sevenfold",
+      "has_synced": true,
+      "path": "select/05_Mad_Hatter_Avenged_Sevenfold.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/06_Mad_Hatter_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/07_Mad_Hatter_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Dva",
+      "has_synced": false,
+      "path": "select/08_Mad_Hatter_Dva.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Mad Hatter",
+      "artist": "Linda Eder",
+      "has_synced": true,
+      "path": "select/09_The_Mad_Hatter_Linda_Eder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Mad Hatter (From \"Wonderland\")",
+      "artist": "Linda Eder",
+      "has_synced": true,
+      "path": "select/10_The_Mad_Hatter_(From__Wonderland_)_Linda_Eder.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "Melanie Martinez",
+      "has_synced": true,
+      "path": "select/11_Mad_Hatter_Melanie_Martinez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mad Hatter",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/12_Mad_Hatter_DUSTCELL.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Mad Hatter",
+      "artist": "Kate Shindle feat. Wonderland Ensemble",
+      "has_synced": true,
+      "path": "select/13_The_Mad_Hatter_Kate_Shindle_feat._Wonderland_Ensemble.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Mad Hatter",
+      "artist": "Kate Shindle & Wonderland Ensemble",
+      "has_synced": true,
+      "path": "select/14_The_Mad_Hatter_Kate_Shindle_&_Wonderland_Ensemble.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mad Hatter",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_Mad_Hatter_DUSTCELL.txt"
+    }
+  ]
+}
