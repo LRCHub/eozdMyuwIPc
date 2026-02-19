@@ -1,0 +1,62 @@
+# DUSTCELL – Mad Hatter
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Falling down
+ここは正気のない国だ
+つまらない思考は切り捨てな
+Nothing would be what it is
+'Cause everything would be what it isn't
+何もかもが逆さまなる世界で
+泥や悪夢食べ育つ怪物たち
+Dang-ding-dong 鐘の合図で
+壊れた時計にバターを塗って
+
+過ぎ去ってしまった記憶を切り裂いて
+輪郭も忘れてただ踊ってふらついたままで
+
+I'm Mad Hatter
+声を上げ笑う
+'Cause you are crying like a baby
+この世はジョークだって知って？
+このまま終わらないお茶会をしていたい
+答えのない問いかけをしよう
+
+You're rather pickin', pickin', pickin', pickin' me, ah
+You're breaking, breaking, breaking, breaking, breaking me, ah
+We're crazy, crazy, crazy, crazy, crazy, ah, yah
+散々騒げよ壊れるまで
+
+A very merry unbirthday to me
+A very merry unbirthday to you
+Shake off our bad habit
+Follow the white rabbit
+Meow, meow, meow 犬は跳ねるよ
+Bow, wow, wow 猫は吠えるよ
+倫理や常識の奴隷はもう辞めな
+人であることから抜け出しな
+
+Curiouser and curiouser
+Curiouser and curiouser
+Curiouser and curiouser
+Everything is funny if you can laugh at it
+
+存在を溶かして混ぜて飲み込んで
+何にもならずに死の波止場で空を見上げたい
+Uh, yeah, yeah
+殴り合って君と笑いあいたいんだ
+愛なんて忘れてただ踊ってふらついたままで
+
+I'm Mad Hatter
+声を上げ笑う
+'Cause you are crying like a baby
+この世はジョークだって知って？
+このまま終わらないお茶会をしていたい
+答えのない問いかけをしよう
+
+You're rather pickin', pickin', pickin', pickin' me, ah
+You're breaking, breaking, breaking, breaking, breaking me, ah
+We're crazy, crazy, crazy, crazy, crazy, ah, yah
+散々騒げよ壊れるまで
+```
